@@ -1,0 +1,99 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<div class="jumbotron">
+<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:240px;height:25px;"src="http://www.clocklink.com/html5embed.php?clock=017&timezone=local&color=red&size=240&Title=&Message=&Target=&From=2016,1,1,0,0,0&Color=red"></iframe>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="sophomore.html" role="button">Sophomore Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="junior.html" role="button">Junior Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="senior.html" role="button">Senior Year</a></p>
+  <h1>Freshman Year</h1>
+  <p>I went into freshman year with the dream of being an Army officer, an engineer, and being debt free. I had come very close to going to Westpoint, but was sadly rejected at the last stage of applying after a 1 and a half year process. I had even received a nomination from Mike Rogers. I accepted it though as that meant I could attend MSU, be close to my family and girlfriend, and was still set to receive a 4 year scholarship through ROTC.</p>
+  <IMG SRC="ROTC.jpg" ALT="Me with JD" WIDTH=300 HEIGHT=300>
+  <IMG SRC="bigflag.jpg" ALT="Me doing big flag" WIDTH=400 HEIGHT=300>
+  <p>Left to Right: JD, me, John Madden. Above: Doing big flag.</p1>
+  <p>After going to charter schools and a private Christian high school my whole life, MSU was a bit of a culture shock. I was also thrown off by being on my own for the first time. The beginning of the year was a bit of a struggle, but I was chugging along and learning to get by. I felt a little over my head in ROTC as they just throw you into the middle of it all and its a little overwhelming getting yelled at by an older man for reasons you don't understand. (Don't call seargents, "Sir")</p>
+  <p>I was then told that my scholarship had to be moved from a 4 year to a 3.5 year scholarship because the process had been taking a while and I got bumped back. Okay... I thought. Not ideal, but I could manage paying for one semester. A month or so later, I get a call from the most senior officer of ROTC, the colonel. He says that I am being offered the full 4 year scholarship again. I was escatic. Unfortunately, it didn't last long. A week later, I go in to sign the contract to make it official but they have bad news for me. They tell me that they found I had a head injury (concussion from snowboarding) the year prior in my medical records which disqualifies me for the scholarship, but that I can feel free to continue in ROTC if I want to. The whole reason I felt comfortable going to MSU was knowing that I wouldn't have to pay for it, but that was gone.</p>
+  <p>Long story short after that, I went into major depression. I stopped going to all my classes, I barely ate or slept. I would lie in bed all day. This caused me to fail all my classes except for one or two. I almost lost my girlfriend over it. It was not a good year. I ended that year just going home after being put on scholarly probation by MSU, who didn't seem to know or care what just happened. </p>
+ 	
+</div>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<div class="jumbotron">
+<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:240px;height:25px;"src="http://www.clocklink.com/html5embed.php?clock=017&timezone=local&color=red&size=240&Title=&Message=&Target=&From=2016,1,1,0,0,0&Color=red"></iframe>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="http://hullibe7.mooo.com" role="button">Freshman Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="junior.html" role="button">Junior Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="senior.html" role="button">Senior Year</a></p>
+  <h1>Sophomore Year</h1>
+  <p>After doing a year at LCC to get my grades back up and get off academic probation, I returned to MSU. This time I had different motivations and different expectations and goals. I was also living at home, which grounded me in reality. I had also started working while at LCC, and I have continued to work since then.</p>
+  <p>I had been working in Collections while at LCC, but transferred to the IT department where I worked when I switched to MSU. I had found that I not only enjoyed IT, but also was naturally good at it. At that time, I had decided since I liked programming, that I should pursue a Computer Science degree.</p>
+  <p>I enjoyed the programming classes that I was taking, but unfortunately I am not very good at math and was unable to pass calculus 2 on my first try. Due to my first year at MSU, I am out of retake credits which means I got locked out of the computer science degree. I was told I needed to switch majors or leave the school again.</p>
+  <p>I was determined not to leave the school again, but was getting a little pessimistic after seeing what other majors were available without anything higher than calc 1 as a requirement. I asked about IT as a degree, but was told by my advisor that the closest thing was Media and Information. It took some convincing after hearing the description of the major, but it's what I ended up choosing after hearing that Information Technology was a minor. I ended up making the Dean's List that year which felt nice as my first year was still fresh in my mind.</p>
+ 	
+</div>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<div class="jumbotron">
+<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:240px;height:25px;"src="http://www.clocklink.com/html5embed.php?clock=017&timezone=local&color=red&size=240&Title=&Message=&Target=&From=2016,1,1,0,0,0&Color=red"></iframe>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="http://hullibe7.mooo.com" role="button">Freshman Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="sophomore.html" role="button">Sophomore Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="senior.html" role="button">Senior Year</a></p>
+  <h1>Junior Year</h1>
+  <p>My fourth year of college. This year has gone by quickly. My advisor and I have been working to get me back on track as soon as possible. I am expecting to graduate this fall which will mean it only took me 4.5 years instead of 5 like I initially thought. This year has mostly been finishing up the gen ed classes and taking the Com Arts classes that are required for Media and Information. </p>
+  <p>This year I also got engaged! After dating my girlfriend for just under 4 years, I proposed a few days before Thanksgiving. We plan on getting married next January after we have both graduated. This is why I am working so hard to graduate by this Fall. </p>
+<IMG SRC="kate.jpg" ALT="Kate and I" WIDTH=450 HEIGHT=450>
+  <p>I have been enjoying my new classes. I find them more fun now. It has been interesting working in IT while studying it. I often am working with technologies at work that require a deep understanding, while we study the bare bones basics at school. Sometimes it was hard to pay attention on those days. A few times though I have learned some interesting bits of information about technologies I use at work that I was unaware of.</p>
+ 	
+</div>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<div class="jumbotron">
+<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:240px;height:25px;"src="http://www.clocklink.com/html5embed.php?clock=017&timezone=local&color=red&size=240&Title=&Message=&Target=&From=2016,1,1,0,0,0&Color=red"></iframe>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="http://hullibe7.mooo.com" role="button">Freshman Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="sophomore.html" role="button">Sophomore Year</a></p>
+<p>
+  <p><a class="btn btn-primary btn-lg" href="junior.html" role="button">Junior Year</a></p>
+  <h1>Senior Year</h1>
+  <p>My last year at MSU will be crammed into a Summer and Fall semester. I decided to cram a lot of classes into the summer session in order to graduate by this Fall. I have worked hard to make sure it doesn't take a full 5 years to graduate.</p>
+  <p>I have a few fun classes to take like a wine tasting course and another web development course. I also have to struggle through CSE 231. That class is the only main barrier between me and graduating. I tried taking it during my Junior year, but had to drop it. I will definitely have to get a tutor for that class.</p>
+  <p>I'm getting internship credits this summer for continuing to work in IT. That will be nice as it fulfills a decent chunk of what I have left to take. I will also get to work on more admin projects as a result since the internship requires me to work on stuff I don't normally work on.</p>
+  <p>This has not been a typical journey through college, and I will be glad when it is done. I have gone through tremendous growth because of it, but it has been stressful to say the least. Time for a vacation.</p>
+ 	
+</div>
+

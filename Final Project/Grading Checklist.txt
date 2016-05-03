@@ -1,0 +1,15 @@
+100 - Hosted on Heroku (Required)
+	-Done
+100 - Custom domain name (Required)
+	-hullibe7.mooo.com
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+300 - 4 complete HTML pages with content
+	-Have a html page for each year at MSU
+200 - Custom CSS or Bootstrap for design (all pages)
+	-Used a bootstrap for all pages
+100 - Use a Heroku button install (https://elements.heroku.com/buttons)
+	-Have buttons that lead to other html pages
+50 - Use at least two custom images (original photography or illustration)
+	-added 2 custom images to freshman page and 1 to junior page
+50 - Integrate non-Heroku 3rd party widget
+	-Added a clock/ date widget
